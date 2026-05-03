@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Filipe! 👋
 
-<!--
-**filipepinhocosta/filipepinhocosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Senior Software Engineer | Algorithmic Trading & Fintech
 
-Here are some ideas to get you started:
+I specialize in building bridges between complex financial platforms (MetaTrader 5) and advanced AI models (LLMs). My focus is on creating high-performance, autonomous trading systems using Python and React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack & Tools
+
+* **Backend & Automation:** Python (FastAPI, Pandas), C++ (MQL5 for MT5)
+* **Frontend:** React, TypeScript, TailwindCSS
+* **AI & Data:** Google Gemini API, Prompt Engineering, Institutional Order Flow (DOM/SMC)
+* **Infrastructure:** Remote VPS deployment, Low-latency API integration
+
+---
+
+### 📈 Current Focus
+
+* Developing **Prism Quant**, a full-stack algorithmic trading dashboard bridging MT5 execution with Gemini 2.0 reasoning.
+* Exploring quantitative models using the Lucas Sequence and Elliott Wave fractal logic.
+* Open to remote roles in the European Fintech ecosystem (Based in Spain).
+
+---
+
+### 📫 Let's Connect
+
+* **LinkedIn:** [linkedin.com/in/filipe-costa-quant](https://www.linkedin.com/in/filipe-costa-quant/)
+* **Email:** filipe.pinho.costa@gmail.com
